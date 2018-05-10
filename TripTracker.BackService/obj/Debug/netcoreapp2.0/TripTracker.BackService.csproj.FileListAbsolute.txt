@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.deps.json
+\\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.runtimeconfig.json
+\\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.dll
+\\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.AssemblyInfo.cs
+\\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.pdb
+\\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.dll
+\\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.pdb

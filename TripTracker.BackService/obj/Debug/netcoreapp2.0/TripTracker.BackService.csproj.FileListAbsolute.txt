@@ -9,3 +9,17 @@
 \\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.pdb
 \\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.dll
 \\Mac\Home\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.pdb
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.deps.json
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.runtimeconfig.json
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.runtimeconfig.dev.json
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.dll
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTracker.BackService.pdb
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTrackerDTO.dll
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\bin\Debug\netcoreapp2.0\TripTrackerDTO.pdb
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.csprojAssemblyReference.cache
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.csproj.CoreCompileInputs.cache
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.AssemblyInfoInputs.cache
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.AssemblyInfo.cs
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.csproj.CopyComplete
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.dll
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTracker.BackService\obj\Debug\netcoreapp2.0\TripTracker.BackService.pdb

@@ -1,0 +1,12 @@
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTrackerDTO\bin\Debug\netstandard2.0\TripTrackerDTO.deps.json
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTrackerDTO\bin\Debug\netstandard2.0\TripTrackerDTO.dll
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTrackerDTO\bin\Debug\netstandard2.0\TripTrackerDTO.pdb
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTrackerDTO\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTrackerDTO\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTrackerDTO\obj\Debug\netstandard2.0\TripTrackerDTO.csprojAssemblyReference.cache
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTrackerDTO\obj\Debug\netstandard2.0\TripTrackerDTO.csproj.CoreCompileInputs.cache
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTrackerDTO\obj\Debug\netstandard2.0\TripTrackerDTO.AssemblyInfoInputs.cache
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTrackerDTO\obj\Debug\netstandard2.0\TripTrackerDTO.AssemblyInfo.cs
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTrackerDTO\obj\Debug\netstandard2.0\TripTrackerDTO.csproj.CopyComplete
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTrackerDTO\obj\Debug\netstandard2.0\TripTrackerDTO.dll
+C:\Users\migueldominguez\Desktop\Dev\TripTracker.BackService\TripTrackerDTO\obj\Debug\netstandard2.0\TripTrackerDTO.pdb

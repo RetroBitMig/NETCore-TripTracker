@@ -5090,6 +5090,16 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "TripTrackerDTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TripTrackerDTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TripTrackerDTO.dll": {}
+        }
       }
     }
   },
@@ -13352,6 +13362,11 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "TripTrackerDTO/1.0.0": {
+      "type": "project",
+      "path": "../TripTrackerDTO/TripTrackerDTO.csproj",
+      "msbuildProject": "../TripTrackerDTO/TripTrackerDTO.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -13359,7 +13374,8 @@
       "Microsoft.AspNetCore.All >= 2.0.8",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.3",
-      "Swashbuckle.AspNetCore >= 2.4.0"
+      "Swashbuckle.AspNetCore >= 2.4.0",
+      "TripTrackerDTO >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -13391,7 +13407,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\migueldominguez\\Desktop\\Dev\\TripTracker.BackService\\TripTrackerDTO\\TripTrackerDTO.csproj": {
+              "projectPath": "C:\\Users\\migueldominguez\\Desktop\\Dev\\TripTracker.BackService\\TripTrackerDTO\\TripTrackerDTO.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

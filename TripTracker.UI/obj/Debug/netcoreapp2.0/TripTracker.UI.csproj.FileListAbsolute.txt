@@ -1,0 +1,15 @@
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\bin\Debug\netcoreapp2.0\TripTracker.UI.deps.json
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\bin\Debug\netcoreapp2.0\TripTracker.UI.runtimeconfig.json
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\bin\Debug\netcoreapp2.0\TripTracker.UI.runtimeconfig.dev.json
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\bin\Debug\netcoreapp2.0\TripTracker.UI.dll
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\bin\Debug\netcoreapp2.0\TripTracker.UI.pdb
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\bin\Debug\netcoreapp2.0\TripTracker.BackService.dll
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\bin\Debug\netcoreapp2.0\TripTracker.BackService.pdb
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\obj\Debug\netcoreapp2.0\TripTracker.UI.csprojAssemblyReference.cache
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\obj\Debug\netcoreapp2.0\TripTracker.UI.csproj.CoreCompileInputs.cache
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\obj\Debug\netcoreapp2.0\TripTracker.UI.AssemblyInfoInputs.cache
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\obj\Debug\netcoreapp2.0\TripTracker.UI.AssemblyInfo.cs
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\obj\Debug\netcoreapp2.0\TripTracker.UI.csproj.CopyComplete
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\obj\Debug\netcoreapp2.0\TripTracker.UI.dll
+C:\Users\migueldominguez\Desktop\Dev\TripTrackerLive\TripTracker.UI\obj\Debug\netcoreapp2.0\TripTracker.UI.pdb
